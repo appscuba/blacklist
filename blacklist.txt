@@ -1,3 +1,2 @@
 ! Lista personal de bloqueo
-||cubadebate.cu^
-
+||example.org^$important
